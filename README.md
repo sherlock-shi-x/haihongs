@@ -17,6 +17,6 @@
 ### Likes
 - Elon Musk
 - Formula One
-- Spacex
+- SpaceX
 - Blockchain
 - Crypto Mining
