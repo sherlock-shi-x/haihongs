@@ -2,7 +2,7 @@
 
 ### Links
 - Telegram: (at) haihongs
-- Twitter: [haihong](https://twitter.com/haihong_)
+- Twitter: [haihong_](https://twitter.com/haihong_)
 - Email: shh_name@hotmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
