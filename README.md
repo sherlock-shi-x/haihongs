@@ -2,7 +2,7 @@
 
 ### Links
 - Telegram: (at) SherlockShi
-- Twitter: [haihong_](https://twitter.com/SherlockShi_AHA)
+- Twitter: [SherlockShi_AHA](https://twitter.com/SherlockShi_AHA)
 - Email: shh_name@hotmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
