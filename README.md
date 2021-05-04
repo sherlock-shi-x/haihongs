@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Links
-- Telegram: (at) haihongs
+- Telegram: (at) SherlockShi
 - Twitter: [haihong_](https://twitter.com/haihong_)
 - Email: shh_name@hotmail.com
 
