@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haihongs&layout=compact&theme=material-palenight" />
 </a>
 
-### Likes
+### Upvotes
 - Elon Musk
 - Formula One
 - SpaceX
