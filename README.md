@@ -3,7 +3,6 @@
 ### Links
 - Telegram: (at) SherlockShi
 - Twitter: [SherlockShi_AHA](https://twitter.com/SherlockShi_AHA)
-- Email: shh_name@hotmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=haihongs&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
